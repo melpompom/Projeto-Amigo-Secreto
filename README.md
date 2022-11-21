@@ -1,0 +1,1 @@
+# tema-escopo-diagrama
