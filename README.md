@@ -1,1 +1,1 @@
-# tema-escopo-diagrama
+Projeto Amigo Secreto.
